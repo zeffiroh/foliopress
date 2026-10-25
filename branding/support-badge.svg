@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 48" width="240" height="48">
+  <!-- "Support FolioPress" badge for the README / GitHub / your site -->
+  <rect x="0.75" y="0.75" width="238.5" height="46.5" rx="6" fill="#faf6eb" stroke="#141414" stroke-width="1.5"/>
+  <path d="M6.75 0.75 h41.25 v46.5 H6.75 a6 6 0 0 1 -6 -6 V6.75 a6 6 0 0 1 6 -6 z" fill="#8b0000"/>
+  <path d="M24.4 33 C14 26 11.5 21 14 17 C16.6 13.4 21.8 13.8 24.4 18.2 C27 13.8 32.2 13.4 34.8 17 C37.3 21 34.8 26 24.4 33 Z" fill="#faf6eb"/>
+  <text x="60" y="20" font-family="Georgia" font-size="9.5" letter-spacing="1.6" fill="#686256">KEEP SHOWCASING</text>
+  <text x="60" y="37" font-family="Georgia" font-size="16.5" font-weight="bold" fill="#141414">Support FolioPress</text>
+</svg>

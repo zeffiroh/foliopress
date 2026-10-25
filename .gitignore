@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+build/
+dist/
+release/
+packaging/version_info.txt
+*.folio.json.bak
+.venv-build/

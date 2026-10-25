@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=FolioPress
+GenericName=Portfolio Builder
+Comment=Turn your files into a portfolio website
+Exec=FolioPress %F
+Icon=foliopress
+Terminal=false
+Categories=Graphics;Publishing;Office;
+Keywords=portfolio;newspaper;website;layout;
+StartupWMClass=FolioPress

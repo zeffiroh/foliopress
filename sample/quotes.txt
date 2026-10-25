@@ -1,0 +1,22 @@
+PULL QUOTES (use with the ❝ Quote button; Attribution goes in the second field)
+
+"Lorem ipsum dolor sit amet."
+— Dolor Sit, Lorem Ipsum Dolor
+
+"Neque porro quisquam est."
+— Dolor Sit, Dolor Sit Amet
+
+"Excepteur sint occaecat cupidatat non proident."
+— Dolor Sit
+
+"Nam libero tempore."
+— Dolor Sit
+
+KICKERS / STRAPLINES
+LOREM · IPSUM · DOLOR SIT · AMET · CONSECTETUR
+
+LINK TREE IDEAS (all fake)
+Lorem        | https://example.com
+Ipsum        | https://example.com/ipsum
+Dolor        | https://example.com/dolor
+Sit amet     | https://example.org/sit
